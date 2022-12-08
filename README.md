@@ -1,8 +1,8 @@
 # omnifoodresponsive
 
-#Technology used-
+# Technology used-
 1.HTML
 2.CSS
-
-#Live Link-
+# Live Link-
 [omnifood](https://omnifooddelhivery.netlify.app/)
+
